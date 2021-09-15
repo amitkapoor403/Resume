@@ -53,6 +53,14 @@ hr {
     border-bottom-radius: 25%;
 }
 
+@media (min-width: 360px) {
+    .top-container {
+        margin-left: -600px;
+        margin-right: -600px;
+        
+    }
+}
+
 .top-cloud {
     position: absolute;
     right: 600px;
